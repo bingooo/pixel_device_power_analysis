@@ -3,7 +3,7 @@
 Monitors the power consumption of pixel phones, especially useful for observing the power consumption of the garbage modem of the Google tensor chip under different circumstances.
 
 
-## useage
+## How
 
 Open adb and then
 
